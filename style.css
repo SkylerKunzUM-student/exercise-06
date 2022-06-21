@@ -2,7 +2,7 @@
   font-family: tahoma;
   color: #ECB390; 
   padding: 10px;
-  border: 1px solid #94B49F;
+  border: 3px solid #94B49F;
   background-color: #FCF8E8;
   font-size: 15px;
   padding: inharit;}
@@ -11,7 +11,7 @@
   font-family: tahoma;
   color: #FCF8E8; 
   padding: 10px;
-  border: 1px solid black;
-  background-color: red;
+  border: 3px solid #FCF8E8;
+  background-color: #94B49F;
   font-size: 15px;
   padding: inharit;}
