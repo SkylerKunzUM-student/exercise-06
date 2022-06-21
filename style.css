@@ -1,8 +1,17 @@
-* {
+.style1 {
   font-family: tahoma;
   color: #ECB390; 
   padding: 10px;}
   border: 1px solid #94B49F;
   background-color: #FCF8E8;
+  font-size: 15px;
+  padding: inharit;}
+
+.style2 {
+  font-family: tahoma;
+  color: #FCF8E8; 
+  padding: 10px;}
+  border: 1px solid #94B49F;
+  background-color: #ECB390;
   font-size: 15px;
   padding: inharit;}
